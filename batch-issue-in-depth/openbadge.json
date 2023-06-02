@@ -1,0 +1,19 @@
+{
+  "type": ["OpenBadgeV2.0"],
+  "credentialSubject": {
+    "vendorUserId": "adev.off@gmail.com",
+    "hasCredential": {
+      "name" : "Microsoft Inspire Attendance",
+      "description" : "Digital Badge for the Conference Attendees of Microsoft's Inspire Conference.",
+      "type" : "BadgeClass",
+      "issuer" : {
+        "type": "Profile",
+        "id": "did:ion:EiAOJzQn8mOU7jofLEXfROxG_oR9Fc_JeXs1KzonGNaHpQ",
+        "name": "Microsoft",
+        "uri": "https://microsoft.com"
+      },
+      "image": "https://images.credly.com/size/680x680/images/1904bb68-9062-4bcd-9ffc-05c14e77b918/Digital-Badges-11.2020-02.png",
+      "criteria": "https://www.credly.com/org/talent-path/badge/full-stack-developer"
+    }
+  }
+}
